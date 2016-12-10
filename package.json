@@ -1,5 +1,5 @@
 {
-  "name": "Lamp App",
+  "name": "lamp-app",
   "version": "1.0.0",
   "description": "Control Desktop App Using Light Sensor",
   "main": "main.js",
