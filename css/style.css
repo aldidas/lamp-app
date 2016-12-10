@@ -42,12 +42,3 @@ a {
   z-index: 0;
   background: radial-gradient(ellipse at center, rgba(255,255,255,1) 0%,rgba(0,0,0,1) 70%);
 }
-
-button {
-  min-width: 100px;
-  border: 0;
-  background: grey;
-  padding: 10px 15px;
-  border-radius: 4px;
-  color: white;
-}
