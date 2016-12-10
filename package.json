@@ -1,0 +1,28 @@
+{
+  "name": "Lamp App",
+  "version": "1.0.0",
+  "description": "Control Desktop App Using Light Sensor",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/aldidas/lamp-app",
+  "keywords": [
+    "Electron",
+    "Johnny Five",
+    "Arduino",
+    "Experiment",
+    "Light Sensor"
+  ],
+  "author": "aldidas",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^1.4.1",
+    "electron-rebuild": "^1.4.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "johnny-five": "^0.10.6",
+    "socket.io": "^1.7.1"
+  }
+}
