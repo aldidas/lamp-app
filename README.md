@@ -3,8 +3,8 @@
 Goal of this project is to develop a Lamp App that controlled by a light sensor — the app’s lamp will glow if we are in the dark environment, and vice versa.
 
 ## How to Start
-1. Clone this repo `git clone `
-2. Go inside the directory `cd `
+1. Clone this repo `git clone https://github.com/aldidas/lamp-app lamp`
+2. Go inside the directory `cd lamp`
 3. Install all dependencies `npm install`
 4. Connect all the components using the scheme below
 5. Run `npm start`
